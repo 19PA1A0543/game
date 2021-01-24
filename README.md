@@ -2,7 +2,7 @@
 
 
 This game was developed with Java Script and was integrated with AI which we trained on Teachable Machine. 
-This game was deployed on Heroku link : https://game0821.herokuapp.com/
+This game was deployed on Heroku link :  https://gentle-dusk-37644.herokuapp.com/
 
 # Training
 We trained the voice model on Teachable Machine with maximum number of samples we can give. 
@@ -19,5 +19,4 @@ Game: https://github.com/dissimulate/Clarity
 Model was build on: https://teachablemachine.withgoogle.com/
 
 # Done by:
-19Pa1A0508 - Aremanda Abhijeeth
-19Pa1A0521 - Boyinapalli Sandeep Dora
+19Pa1A0543 - Edamakanti Bhargavi
