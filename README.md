@@ -20,3 +20,4 @@ Model was build on: https://teachablemachine.withgoogle.com/
 
 # Done by:
 19Pa1A0543 - Edamakanti Bhargavi
+19Pa1A0539 - Desabtula Srikar
